@@ -45,7 +45,6 @@ a {
   border: none;
 }
 
-/* Header Section */
 .header_list {
   display: flex;
   justify-content: space-between;
